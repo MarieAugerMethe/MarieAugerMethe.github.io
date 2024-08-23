@@ -1,0 +1,35 @@
+<hr style='height: 2px;'>
+
+**Welcome to Introduction to Statistical Inference for Data Science!** In this course, we will cover
+
+-   Introduction to statistical inference
+-   Module 1: sampling distribution of parameter estimates
+    -   Population and samples
+-   Module 2: approximation of sampling distribution via bootstrapping
+    -   Sampling with and without replacement
+-   Module 3: the central limit theorem and mathematical approximation of the sampling distribution
+    -   Law of large numbers
+    -   Normal distribution
+    -   Standard deviation(?) and standard error
+    -   Central limit theorem
+    -   Sample distribution of mean, proportion, difference in mean? (talk about median? min?)
+-   Module 4: Confidence intervals via bootstrapping
+-   Module 5: Confidence intervals based on distributional assumptions
+    -   pdf, cdf, quantile, z-scores, t-distribution!!
+-   Module 6: Hypothesis Testing via randomization
+    -   Null and alternative hypothesis
+    -   p-values
+    -   Type I and Type II errors
+    -   One sample proportion and mean
+    -   Two samples and permutation 
+-   Module 7: Hypothesis testing based on distributional assumptions
+    -   One sample proportion - normal model
+    -   One sample mean - t-distribution 
+-   Module 8: Errors in inference
+    -   Type I and Type II errors
+    -   Power of a test
+-   Module 9: ANOVA and multiple hypothesis testing
+-   Module 10: A/B Testing
+
+# Preface {.unnumbered}
+
